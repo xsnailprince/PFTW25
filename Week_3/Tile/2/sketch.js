@@ -38,9 +38,9 @@ function draw() {
   createTile(0, 200, 'magenta', 'black', 'cyan');
   createTile(0, 200, 'cyan', 'red', 'teal');
   createTile(200, -400, 'teal', 'magenta', 'red');
-  createTile(200, 12, 'red', 'white', 'grey');
-  createTile(0, 200, 'magenta', 'black', 'cyan');
-  createTile(0, 200, 'cyan', 'red', 'teal');
-  createTile(200, -400, 'teal', 'magenta', 'red');
-  createTile(200, -400, 'teal', 'magenta', 'red');
+  createTile(0, 200, 'grey', 'teal', 'black');
+  createTile(0, 200, 'black', 'grey', 'magenta');
+  createTile(200, -400, 'magenta', 'teal', 'red');
+  createTile(0, 200, 'white', 'cyan', 'teal');
+  createTile(0, 200, 'teal', 'magenta', 'grey');
 }
