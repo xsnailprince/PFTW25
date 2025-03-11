@@ -6,7 +6,7 @@ function App() {
     brand: "Yves Saint Laurent",
     desc: "Black Opium Eau de Parfum Over Red—the iconic sensual coffee floral accord from Yves Saint Laurent turns red with a hypnotic and radiant ingredient, a juicy cherry accord. This sought-after sweet perfume scent takes the signature of Black Opium into a new fruity universe. Black Opium Eau de Parfum Over Red is the dreamiest warm and sweet cherry perfume that truly captures the senses and lasts all night long.",
     price: "$165",
-    image: "/Perfume_1.jpg"
+    image: "Perfume_1.jpg"
     },
 
     {perfume: "Lost Cherry",
@@ -14,7 +14,7 @@ function App() {
     brand: "Tom Ford",
     desc: "Lost Cherry mingles black cherry with cherry liqueur accords and a touch of bitter almond, bursting forth in waves of sweet and tart. Opulent floral notes of rose and jasmine sambac blend with an unexpected mélange of sandalwood, vetiver, and cedarwood.",
     price: "$255",
-    image: "/Perfume_2.jpg"
+    image: "Perfume_2.jpg"
     },
 
     {perfume: "Lust",
@@ -22,7 +22,7 @@ function App() {
     brand: "Lush Cosmetics",
     desc: "It’s virtually unheard of for a perfume to be this sexy. Lust is a heady mash-up of rich florals and a warm, woody base that lasts on the skin for hours and hours. It's a multi-layered fragrance made up of jasmine, ylang ylang, rose, vanilla and sandalwood making it (and you, by association) unabashedly sexy. Resistance is futile.",
     price: "$130",
-    image: "/Perfume_3.jpg"
+    image: "Perfume_3.jpg"
     },
 
     {perfume: "Gorgon",
@@ -30,7 +30,7 @@ function App() {
     brand: "Andromeda's Curse",
     desc: "Women with long tresses of living, venomous snakes. A mere side-glance from behind long eyelashes was powerful enough to turn those who beheld her to stone. Powdered violets, sweet plums, figs, and a dusting of feminine musk.",
     price: "$43",
-    image: "/Perfume_4.jpg"
+    image: "Perfume_4.jpg"
     },
 
     {perfume: "Neptune",
@@ -38,7 +38,7 @@ function App() {
     brand: "Andromeda's Curse",
     desc: "Neptume is named for the Roman God of the Sea- this fragrance is an ode to the sea with salty sea water and sea moss.",
     price: "$43",
-    image: "/Perfume_5.jpg"
+    image: "Perfume_5.jpg"
     }
   ];
   return (
