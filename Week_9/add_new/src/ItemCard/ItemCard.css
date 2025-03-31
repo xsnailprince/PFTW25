@@ -1,0 +1,137 @@
+.perfumeCard {
+    width: 100%;
+    max-width: 250px;
+    padding: 10px;
+    height: 375px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: relative;
+}
+
+.cardImg img {
+    max-width: 200px;
+    width: 100%;
+}
+
+.cardTitle {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.stripe {
+    height: 5px;
+    width: 100%;
+}
+
+.have img {
+    width: 25px;
+    height: 25px;
+    top: 10px;
+    position: absolute;
+    z-index: 10;
+    left: 5px;
+}
+
+.action a img {
+    width: 20px;
+    height: 20px;
+}
+
+.action a {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    border-radius: 5px;
+    padding-top: 3px;
+    margin: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background: lightgray;
+}
+
+.action a:hover {
+    background: #C70039;
+}
+
+/*fragrance notes unique color tags*/
+.Cherry {
+    background-color: #C70039;
+}
+
+.Jasmine {
+    background-color: #ffc1d3;
+}
+
+.OrangeBlossom {
+    background-color: #ffc778;
+}
+
+.BlackTea {
+    background-color: #1e191a;
+}
+
+.Vanilla {
+    background-color: #f6f1b5;
+}
+
+.Coffee {
+    background-color: #372420;
+}
+
+.PatchouliLeaf {
+    background-color: #2b4111;
+}
+
+.BitterAlmond {
+    background-color: #2f2b1f;
+}
+
+.Rose {
+    background-color: #ff356e;
+}
+
+.Balsam {
+    background-color: #455731;
+}
+
+.YlangYlang {
+    background-color: #a0d840;
+}
+
+.Sandalwood {
+    background-color: #77774f;
+}
+
+.Violets {
+    background-color: #8f228d;
+}
+
+.Plum {
+    background-color: #42093d;
+}
+
+.Fig {
+    background-color: #3e294d;
+}
+
+.Musk {
+    background-color: #544e50;
+}
+
+.SeaMoss {
+    background-color: #1c4838;
+}
+
+.SaltWater {
+    background-color: #00c7b6;
+}
+
+.Amber {
+    background-color: #c74600;
+}

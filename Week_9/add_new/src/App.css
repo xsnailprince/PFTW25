@@ -1,0 +1,17 @@
+.collection {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.page {
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: white;
+  border: 2px solid rgb(50, 11, 19);
+  border-radius: 20px;
+}
+
+body {
+  background-color: rgb(86, 18, 26);
+}
