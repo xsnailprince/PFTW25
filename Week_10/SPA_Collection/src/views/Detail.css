@@ -1,0 +1,12 @@
+.detailPage {
+    margin: 5% 15%;
+    background-color: white;
+    text-align: center;
+    border-radius: 5%;
+    padding: 20px;
+    border: 2px black solid;
+}
+
+p {
+    padding: 10px 150px;
+}
