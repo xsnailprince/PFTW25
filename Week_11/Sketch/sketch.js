@@ -1,6 +1,5 @@
 function setup() {
   createCanvas(800, 800);
-  padding: auto
   angleMode(DEGREES);
   rectMode(CENTER);
   const ctx = drawingContext;
