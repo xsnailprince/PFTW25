@@ -40,9 +40,9 @@ function setup() {
      push();
      noStroke();
      if (i % 2 === 0) {
-        fill(0);
+        fill(0, 50, 255);
       } else {
-        fill(255);
+        fill(155, 32, 80);
       }
      beginShape();
      vertex(square[i].x, square[i].y);
