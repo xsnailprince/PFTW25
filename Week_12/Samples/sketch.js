@@ -1,14 +1,14 @@
 var song;
-
-function preload() {
-  song = loadSound("Explosion.wav");
-}
+var button;
 
 function setup() {
   createCanvas(400, 400);
-  song.play();
+  song = loadSound("Explosion.wav");
+  button = createButton("boom");
+  button.mousePressed(togglePlaying);
+  
 }
 
-function draw() {
-  background(220);
+function togglePlaying() {
+  song.play();
 }

@@ -3,5 +3,12 @@ html, body {
   padding: 0;
 }
 canvas {
+  display: none;
+}
+
+button {
   display: block;
+  width: 500px;
+  height: 250px;
+  margin: 10% auto;
 }
