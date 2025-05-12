@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "prop-types": "^15.8.1"
+  },
+  "dependencies": {
+    "p5": "^2.0.1"
   }
 }
